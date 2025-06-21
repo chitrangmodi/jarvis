@@ -3,7 +3,7 @@
 A Python-based voice assistant that responds to voice commands, opens websites, plays music, and fetches news headlines.
 
 ![Voice Assistant Concept](https://via.placeholder.com/800x400.png?text=Jarvis+Voice+Assistant)  
-*(Consider adding an actual screenshot or logo here)*
+
 
 ## Features
 
